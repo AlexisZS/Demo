@@ -12,9 +12,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 
 
-
-
-//import com.demo.dao.IClienteDao;
 import com.demo.dto.ClienteDTO;
 import com.demo.manager.IClienteMaganer;
 import com.google.gson.Gson;
